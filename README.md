@@ -151,4 +151,10 @@ A die hard Arsenal fan!
 
 Aspiring Bioinformatician!
 
+## KHUMBO PUTE
 
+**PAUSTI**
+
+**Computing for Biologist**
+
+*My first fork*
