@@ -155,6 +155,6 @@ Aspiring Bioinformatician!
 
 **PAUSTI**
 
-**Computing for Biologist**
+**Computing for Biologists**
 
 *My first fork*
